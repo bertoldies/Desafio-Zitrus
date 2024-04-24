@@ -1,4 +1,4 @@
-const accessToken = 'token '
+
 const username = 'bertoldies'
 const repo = 'Desafio_Zitrus'
 
