@@ -1,0 +1,42 @@
+# Desafio Zitrus
+
+[![principal]()]
+
+## Pré requisitos
+
+É necessário ter Node.js e npm instalados para executar este projeto.
+
+> Usei as versões `18.17.1` e `20.9.0` do Node.js e npm, respectivamente. Eu sugiro que você use as mesmas versões ou versões posteriores.
+
+## Instalação
+
+Execute `npm install` para instalar as dependências de desenvolvimento.
+
+## Testes
+
+Siga os passos para fazer os testes
+
+## Desktop
+
+Execute `npm test` (ou `npm t` para versão curta) para executar o teste no modo headless em uma janela de visualização de desktop
+
+Ou execute `npm run cy:open` para abrir o Cypres no modo interativo em uma viewport de desktop
+
+## Mobile
+
+Execute `npm run test:mobile` para executar o teste no modo headless em uma janela de visualização de desktop
+
+Ou execute `npm run cy:open:mobile` para abrir o Cypres no modo interativo em uma janela de visualização de desktop
+
+
+## Cenários de testes - Site Zitrus
+
+Na pasta Cenario_de_testes estão os cenários descritos na linguagem Gherkin, utilizando o framework cucumber
+
+Execute o comando npm install --save-dev cucumber para instala-lo
+
+Segue um link com algumas inconcistencias encontras, sugestões e outros testes não funcionais:
+
+https://docs.google.com/document/d/1JlT2xxos0jpE2PdYL5Ubz8EMOvLTJ51VJmSs5msmbS0/edit
+
+
