@@ -1,4 +1,4 @@
-const accessToken = 'token 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'
+const accessToken = 'token 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'
 const username = 'bertoldies'
 const repo = 'Desafio_Zitrus'
 
