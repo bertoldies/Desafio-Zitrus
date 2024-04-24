@@ -1,4 +1,4 @@
-const accessToken = 'token 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'
+const accessToken = 'cole token aqui'
 const username = 'bertoldies'
 const repo = 'Desafio_Zitrus'
 
