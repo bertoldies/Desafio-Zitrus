@@ -1,4 +1,6 @@
-
+const accessToken = 'token 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'
+const username = 'bertoldies'
+const repo = 'Desafio_Zitrus'
 
 Cypress.Commands.add('criar_repositorio', repositorio => {
     cy.request({
